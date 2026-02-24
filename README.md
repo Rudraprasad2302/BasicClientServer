@@ -51,7 +51,6 @@ BasicClientServer/
 └── README.md
 ```
 
-*(File names may slightly vary depending on your implementation)*
 
 ---
 
